@@ -36,6 +36,3 @@ The following image highlights **correctly clustered vs misclustered samples**:
 > ⚠️ True labels were not used during clustering and are shown here only for
 > post-analysis and visualization purposes.
 
-
-### Approximate Clustering Accuracy
-
